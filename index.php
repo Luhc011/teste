@@ -188,7 +188,7 @@
                 <img
                   class="img-fluid"
                   src="assets/produtos/produto1.jpg"
-                  alt=""
+                  alt="product picture"
                 />
               </div>
               <div class="prod-info-middle">
@@ -203,7 +203,7 @@
                 <img
                   class="img-fluid"
                   src="assets/produtos/produto2.jpg"
-                  alt=""
+                  alt="product picture"
                 />
               </div>
               <div class="prod-info-middle">
@@ -218,7 +218,7 @@
                 <img
                   class="img-fluid"
                   src="assets/produtos/produtoc.jpg"
-                  alt=""
+                  alt="product picture"
                 />
               </div>
               <div class="prod-info-middle">
@@ -336,7 +336,7 @@
                   src="assets/clientes/clientes-img.svg"
                   alt="clientes img"
                 />
-                <div class="d-inline-block pl-md-0 pl-3">
+                <div class="d-inline-block ps-md-0 ps-3">
                   <span>10</span>
                   Anos de Experiência
                 </div>
@@ -347,7 +347,7 @@
                   alt="phone img"
                   class="img-fluid"
                 />
-                <div class="d-inline-block pl-3">
+                <div class="d-inline-block ps-3">
                   <span>(11) 2233 4455</span>
                   Atendimento domingo a sexta, das 7 as 15h
                 </div>

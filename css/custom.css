@@ -223,26 +223,6 @@
   color: var(--secondary-color);
 }
 
-#comentarios .depoimento {
-  background: var(--light);
-  border-radius: 5px;
-  display: flex;
-  padding: 30px;
-}
-
-#comentarios .depoimento .quote {
-  max-width: 35px;
-}
-
-#comentarios .depoimento .name {
-  color: #aaaaaa;
-}
-
-#comentarios .depoimento .name span {
-  color: #000;
-  font-weight: 700;
-}
-
 .footer-site {
   background-image: url(../assets/bg-parallax.jpeg);
   background-repeat: no-repeat;
